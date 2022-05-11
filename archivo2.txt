@@ -1,0 +1,3 @@
+Archivo txt de prueba para GIT. 
+
+-- Primera adición 
